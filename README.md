@@ -1,7 +1,6 @@
 ![image](https://github.com/kgcemon/Travel_App/assets/146537184/863d1b24-5a0b-4d63-aedc-908c99c7660b)Travel App
 Welcome to the Travel App repository! This application is designed to provide users with a seamless and enjoyable travel experience. Whether you're planning your next adventure or exploring a new destination, our Travel App has got you covered.
-![Uploading image.png…]()
-
+![411783839_921156366105103_5189870328817368181_n](https://github.com/kgcemon/Travel_App/assets/146537184/6af96894-ab0c-444d-99c1-ec543be6ca19)
 
 Features:
 Explore Destinations: Browse through a wide range of destinations, each with detailed information, photos, and recommendations.
